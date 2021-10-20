@@ -1,4 +1,4 @@
-### Olá, me chamo Pedro 👋
+## Olá, me chamo Pedro 👋
 
 <div align="center">
   <a href="https://github.com/Pedrssouza">
